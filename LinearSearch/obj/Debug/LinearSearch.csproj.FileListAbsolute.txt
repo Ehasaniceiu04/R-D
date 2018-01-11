@@ -1,6 +1,0 @@
-F:\ehasan_git\R&D\LinearSearch\bin\Debug\LinearSearch.exe.config
-F:\ehasan_git\R&D\LinearSearch\bin\Debug\LinearSearch.exe
-F:\ehasan_git\R&D\LinearSearch\bin\Debug\LinearSearch.pdb
-F:\ehasan_git\R&D\LinearSearch\obj\Debug\LinearSearch.csprojResolveAssemblyReference.cache
-F:\ehasan_git\R&D\LinearSearch\obj\Debug\LinearSearch.exe
-F:\ehasan_git\R&D\LinearSearch\obj\Debug\LinearSearch.pdb

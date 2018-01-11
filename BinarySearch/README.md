@@ -1,4 +1,4 @@
-<h1>Binary Search Algorithm<h1>
+Binary Search Algorithm
 
 Binary Search is a fast search algorithm with runtime complexity of O(log n) .This search algorithm works on the principle of divide and conquer.
 
